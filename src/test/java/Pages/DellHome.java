@@ -101,5 +101,10 @@ public class DellHome {
 		
 		
 	}
+	
+	
+	public void recherche() {
+		
+	}
 
 }
